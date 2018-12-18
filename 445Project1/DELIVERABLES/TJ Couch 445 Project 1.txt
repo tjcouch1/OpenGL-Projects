@@ -1,0 +1,26 @@
+CS 445 Project 1
+By TJ Couch
+30 August 2017
+
+Left click to start a shape or place a vertex for a shape you have started. If that vertex finishes the shape, it closes the shape and fills it in.
+
+Right click to see the right-click menu.
+
+	Shapes - Choose the shape you would like to create next.
+		Alternatively press QWERTY to select shapes.
+		
+	Colors - Choose the color for the next vertex you create.
+		Alternatively press 1-9 to select colors.
+		
+	Point Size - Choose the size of the next point you create.
+	
+	Line Width - Choose the thickness of the next line you create.
+	
+	Clear - delete all shapes.
+	
+	Exit - exit the program.
+		Alternatively press Esc to exit.
+
+While selecting vertices, transparent lines will draw toward the mouse. These are a preview of the shape and color if you create a vertex there.
+
+Some shapes do not have a specific number of vertices. Click Space or Enter to finish these shapes.

@@ -1,0 +1,8 @@
+CS 445 Project 2
+By TJ Couch
+2 October 2017
+
+Press the up arrow key to select a child part.
+Press the down arrow key to select the parent part.
+Press the left and right arrow keys to select between sibling parts.
+Hold A and D to rotate the currently selected part.

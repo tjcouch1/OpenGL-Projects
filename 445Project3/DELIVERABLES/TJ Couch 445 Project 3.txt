@@ -1,0 +1,11 @@
+CS 445 Project 3
+By TJ Couch
+8 November 2017
+
+To control the camera:
+	Left Mouse Button: hold and drag to rotate the camera about the eye
+	WASD: Move forward, backward, left, and right in camera space
+
+To operate the sample polygon:
+	V: Toggle visibility of the polygon
+	R: Rotate the polygon around the Y axis
